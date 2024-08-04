@@ -23,7 +23,7 @@ A simple yet modern calculator application built with Java Swing. This calculato
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/calculator.git
+    git clone https://github.com/jmlakshmisagar/calculator.git
     ```
 
 2. **Navigate to the Project Directory:**
