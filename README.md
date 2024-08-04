@@ -9,9 +9,6 @@ A simple yet modern calculator application built with Java Swing. This calculato
 - **Modern UI:** Stylish buttons and display with responsive layout
 - **Error Handling:** Displays an error message for invalid operations (e.g., division by zero)
 
-## Screenshots
-
-*(Add screenshots of your calculator here)*
 
 ## Requirements
 
@@ -23,7 +20,7 @@ A simple yet modern calculator application built with Java Swing. This calculato
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/calculator.git
+    git clone https://github.com/jmlakshmisagar/calculator.git
     ```
 
 2. **Navigate to the Project Directory:**
