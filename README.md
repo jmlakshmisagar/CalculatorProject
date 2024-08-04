@@ -1,4 +1,4 @@
-# Java Calculator
+# GUI Java Calculator
 
 A simple yet modern calculator application built with Java Swing. This calculator performs basic arithmetic operations, including addition, subtraction, multiplication, and division, as well as some additional functions like percentage and square root. It features a clean and intuitive user interface with enhanced styling for buttons and display.
 
